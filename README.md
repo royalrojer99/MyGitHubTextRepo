@@ -1,0 +1,2 @@
+# MyGitHubTextRepo
+JUST FOR TRAINING PERPOSE 
